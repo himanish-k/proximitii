@@ -8,4 +8,6 @@ Of course, for the map interface, it only makes sense to use the Google Maps API
 
 ## Architecture and Implementation details
 
-TO DO
+Not particularly sure about the architecture. But going to start developing the front-end first and build things out from there. Going to pick reactjs because of existing experience with the framework, community support and validation due to wide-spread usage.
+
+PHASE I: web client with a map
